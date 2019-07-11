@@ -1,5 +1,6 @@
 // whatsapp data base.
-let details = [{
+let details = [
+    {
     "name": "Bushra",
     "contect" : ["03456778", "023344454"],
     "profile" : "https://www.google.com/search?q=image&rlz=1C1GCEU_enPK825PK827&tbm=isch&source=iu&ictx=1&fir=CJwabmfmxl2ySM%253A%252CpFs_4Fcq5AgpmM%252C_&vet=1&usg=AI4_-kSmsJSXmOnLPc_7R6JjVOmyfiRQpw&sa=X&ved=2ahUKEwiyspPayKzjAhXJzqQKHanBAagQ9QEwAHoECAQQBA#imgrc=CJwabmfmxl2ySM:",
